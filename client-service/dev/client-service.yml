@@ -1,9 +1,2 @@
-spring:
-  data:
-    mongodb:
-      username: root
-      password: root
-      port: 27017
-      authentication-database: admin
-      database: book
-      additional-hosts: localhost
+propirties:
+   test: Hello-world
